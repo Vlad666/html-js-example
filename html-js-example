@@ -4,3 +4,4 @@ git commit -m "Initial commit with HTML and JavaScript files"
 git branch -M main
 git remote add origin https://github.com/yourusername/html-js-example.git
 git push -u origin main
+git checkout -b feature/alert-console-message
